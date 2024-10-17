@@ -11,8 +11,11 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            ArraysPractice arrays = new ArraysPractice();
-            arrays.MainArraysPractice();
+            //ArraysPractice arrays = new ArraysPractice();
+            //arrays.MainArraysPractice();
+
+            ListDictPractice listDictPractice = new ListDictPractice();
+            listDictPractice.MainListDictPractice();
         }
     }
 }

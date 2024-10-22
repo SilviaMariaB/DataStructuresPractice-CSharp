@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayofMultiples.cs" />
     <Compile Include="ArraysPractice.cs" />
     <Compile Include="ListDictPractice.cs" />
+    <Compile Include="MenuOptions.cs" />
+    <Compile Include="OddAndEven.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadAndPrint.cs" />
+    <Compile Include="ReadAndSearch.cs" />
+    <Compile Include="TicTacToeBoard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
